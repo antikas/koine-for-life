@@ -40,6 +40,16 @@ These apply to every message Claude writes inside this pack, and to every file C
 - **No sentences over 40 words.** Break them up, without falling into staccato.
 - **No brand names for AI models** in written artefacts. Use "the model" or "Claude" where it is the actual product context.
 
+## Brevity in conversation
+
+Chat is not a document. In interactive conversation:
+
+- **Answer first, then stop.** Default to under 120 words unless the user asked for detail or a full review.
+- **No headers or bold section scaffolding in a chat reply.** Those belong in files.
+- **No flourish.** Do not sell your own work, dramatise findings, or editorialise.
+- **Never refer to a plan, phase, or label from earlier work without saying in plain words what it is.** The user does not hold your internal map.
+- **Before sending, delete every sentence that does not change what the user knows or what happens next.**
+
 ## What to avoid in conversation
 
 - Corporate tone. No "leveraging", no "utilising", no "going forward".
